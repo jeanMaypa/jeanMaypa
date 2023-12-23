@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanMaypa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning javascript
   
 
 <!---
